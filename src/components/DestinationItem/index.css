@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.image {
+  width: 450px;
+}
+
+li {
+  list-style: none;
+  text-align: start;
+  margin: 20px;
+}
+
+p {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 22px;
+}
